@@ -201,7 +201,8 @@ function App() {
         onAddQuestionData={addQuestionHandler}
         onLoggedUserRole={role}
         sub={submitted}
-        subHandler={submittedWrongModalHandler}
+        subHandler={submittedWrongModalHandler} 
+        
         />
         )}
       </main>
