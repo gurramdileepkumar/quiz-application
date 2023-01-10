@@ -1,0 +1,18 @@
+.controls{
+    padding: 35px;
+    background: #ad8cb4;
+    margin: 0 0 10px 0;
+    border-radius: 8px;
+}
+.controls label{
+    display: inline-block;
+    margin-left: 10px;
+}
+.countQuestions{
+    float: right;
+}
+.controls p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
